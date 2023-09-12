@@ -1,4 +1,4 @@
-👋 Hi there! I'm Dmitriy, a passionate data scientist with a relentless curiosity for the world of AI, machine learning, and deep learning. My journey in this fascinating field began with a thirst for knowledge and a desire to unravel the mysteries of data
+👋 Hi there! I'm Dmytro, a passionate data scientist with a relentless curiosity for the world of AI, machine learning, and deep learning. My journey in this fascinating field began with a thirst for knowledge and a desire to unravel the mysteries of data
 
 🧠 In addition to my core interests, I'm also enthusiastic about natural language processing (NLP), computer vision, and reinforcement learning. Exploring the frontiers of technology and its practical applications is what keeps me inspired
 
