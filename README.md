@@ -11,3 +11,6 @@ Some of the languages and frameworks i am proficient in are:
 - TensorFlow Keras
 - Scikit-learn
 - SQL
+- Docker
+- Pandas
+- NumPy
