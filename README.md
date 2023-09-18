@@ -1,4 +1,4 @@
-👋 Hi there! I'm Dmytro, a passionate data scientist with a relentless curiosity for the world of data, AI, machine learning, and deep learning. Thirst for knowledge and exploring technology frontiers, unlocking the power of data and its practical applications is what keeps me inspired. 
+👋 Hi there! I'm a passionate data scientist with a relentless curiosity for the world of data, AI, machine learning, and deep learning. Thirst for knowledge and exploring technology frontiers, unlocking the power of data and its practical applications is what keeps me inspired. 
 
 🧠 I'm also enthusiastic to solve unstructured data puzzles using natural language processing (NLP), computer vision, and reinforcement learning. 
 
